@@ -25,7 +25,7 @@ The challenge is to build out a blog preview card and get it looking as close to
 
 ### Links
 
--   Solution URL: [Blog Preview Card on Netlify](https://your-solution-url.com)
+-   Solution URL: [Blog Preview Card on Netlify](https://dashing-gaufre-e3ef0a.netlify.app/)
 
 ## My process
 
