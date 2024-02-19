@@ -41,7 +41,7 @@ The challenge is to build out a blog preview card and get it looking as close to
 For this challenge, I added two sections to the solution:
 
 -   A section with the feature / latest blog post
--   A second sections with past blog posts using a grid to display 3 cards on a desktop and stack them on mobile.
+-   A second section with past blog posts using a grid to display 3 cards on a desktop and stack them on mobile.
 
 Obviously, with this additional section it is not going to match the Frontend Mentor design.
 
